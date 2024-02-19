@@ -1,0 +1,3 @@
+#AL notes
+Ensure that your RDPWrap configuration file matches the version of termsv.dll in your Windows folder. If it’s not, download a suitable RDPWRAP.ini file.
+https://raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini
